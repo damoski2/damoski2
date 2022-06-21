@@ -1,13 +1,14 @@
-### Hi there, My name is Oyindamola - aka Oyindacodes aka damoski2 👋
+### Hi there, My name is Oyindamola Akogun(Aqua_dev) 👋
 
-## Im a Student 👨🏾‍💻, As well a tech enthusiast
+## An Ardent web2 & web3 developer 👨🏾‍💻, As well a tech enthusiast
 
-### 🔭 I’m currently working on Packachange and TimeLine Crypto Excahnge⏱
+### 🔭 I’m currently working on Garnerly and TimeLine DAO⏱
     -🌱 I’m currently learning Solidity🚀
     -👯 I’m looking to collaborate on Open Source Work With Fellow Developers
-    -🤔 I’m looking for help with ...
     -💬 Ask me about Tech😜
     - Im Looking to be a contributor in the open source community 👥
+    - When I’m not coding, I’m either listening to Synthwave or driving a Tesla 😎
+
 
 
 ### Connect with me:
@@ -22,6 +23,8 @@
 [<img align="left" alt="" width="22px" src="https://res.cloudinary.com/oyindacodes/image/upload/v1655798794/Vector-4_ot94px.svg" />][instagram]
 
 <br />
+
+
 
 
 
@@ -51,7 +54,12 @@
 <br />
 
 ## Statistcal Value 👨🏾‍💻:
-![GitHub Stats](https://github-readme-stats.vercel.api?username=damoski2&theme=synthwave)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=damoski2&theme=synthwave)
+
+
+## Streak:
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=damoski2&theme=synthwave&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 
 
 [website]: https://damoski2.netlify.app
