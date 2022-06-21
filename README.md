@@ -53,7 +53,7 @@
 <br />
 <br />
 
-## Statistcal Value 👨🏾‍💻:
+## Statistical Value 👨🏾‍💻:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=damoski2&theme=synthwave)
 
 
