@@ -3,11 +3,11 @@
 ## An Ardent web2 & web3 developer 👨🏾‍💻, As well a tech enthusiast
 
 ### 🔭 I’m currently working on Garnerly and TimeLine DAO⏱
-    - 🌱 I’m currently learning Solidity🚀
+    - 🌱 I’m currently learning Solidity and React native
     - 👯 I’m looking to collaborate on Open Source Work With Fellow Developers
     - 💬 Ask me about Tech😜
     - Im Looking to be a contributor in the open source community 👥
-    - When I’m not coding, I’m either listening to Synthwave or playing the guitar
+    - When I’m not coding, I’m either listening to Synthwave or playing the guitar 🎸
 
 
 
