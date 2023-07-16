@@ -7,7 +7,7 @@
     - 👯 I’m looking to collaborate on Open Source Work With Fellow Developers
     - 💬 Ask me about Tech😜
     - Im Looking to be a contributor in the open source community 👥
-    - When I’m not coding, I’m either listening to Synthwave or driving a Tesla 😎
+    - When I’m not coding, I’m either listening to Synthwave or playing the guitar
 
 
 
